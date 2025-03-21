@@ -1,0 +1,8 @@
+PyQt5==5.15.11
+transformers==4.49.0
+torch==2.6.0
+SpeechRecognition==3.14.1
+PyAudio==0.2.14
+sentencepiece==0.2.0
+sacremoses==0.1.1
+sounddevice==0.5.1
