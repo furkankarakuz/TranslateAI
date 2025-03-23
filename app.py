@@ -1,4 +1,3 @@
-
 from PyQt5.QtWidgets import QLabel, QPushButton, QApplication, QVBoxLayout, QDialog, QRadioButton, QGridLayout, QGroupBox, QButtonGroup, QTabWidget, QWidget, QListWidget
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import Qt
