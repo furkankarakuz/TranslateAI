@@ -1,6 +1,6 @@
 # TranslateAI
 
-TranslateAI is a powerful real-time speech translation desktop application built using PyQt and Hugging Face models. It enables users to seamlessly convert spoken words into text and translate them into different languages.
+TranslateAI is a powerful real-time speech translation desktop application built using PyQt and Hugging Face models. It enables users to convert spoken words into text and translate them into different languages.
 
 <table style="width:100%; height:300px; border: none; border-collapse: collapse; text-align: center; vertical-align: top;">
   <tr>
