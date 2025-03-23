@@ -52,7 +52,7 @@ Designed with ease of use and efficiency in mind, TranslateAI brings a fluid tra
 - 🎙️ **Real-time Speech & Audio Translation**
 - 🔊 **Visual Indicator for Sound Intensity**
 - 🌐 **Multi-language Support: Turkish 🇹🇷, English 🇺🇸, Spanish 🇪🇸, French 🇫🇷 (More to come!)**
-- 🤖 **Hugging Face Model Integration**
+- 🤖 **Hugging Face Model Integration (Helsinki-NLP)**
 - ⚡ **Automatic Model Download Based on Selected Language**
 - 🖥️ **User-Friendly PyQt GUI**
 
