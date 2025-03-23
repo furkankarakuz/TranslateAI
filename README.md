@@ -17,7 +17,8 @@ TranslateAI is a powerful real-time speech translation desktop application built
   </tr>
 </table>
 
-https://github.com/user-attachments/assets/fd033b27-f94d-4f41-ad82-496df62ece21
+https://github.com/user-attachments/assets/6f808863-a731-440b-bffb-5955a849544a
+
 
 This app allows you to:
 
