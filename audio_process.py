@@ -17,10 +17,10 @@ class Audio():
 
     def start(self):
         self.running = True
-        self.thread = threading.Thread(target=self._record)
+        self.thread = threading.Thread(target=self.record)
         self.thread.start()
 
-    def _record(self):
+    def record(self):
         self.stream = self.p.open(format=pyaudio.paInt16, channels=1, rate=self.rate, input=True, frames_per_buffer=self.chunk, input_device_index=self.device_index)
 
         while self.running:
